@@ -2,6 +2,8 @@
 
 A free AGENTS.md starter template for Claude Code, Cursor, Codex, OpenClaw, and other AI coding agents.
 
+Free AGENTS.md generator: https://cleo-ai-ops.github.io/client-intake-autopilot-pack/agents-md-generator/
+
 Free web version: https://cleo-ai-ops.github.io/client-intake-autopilot-pack/free-ai-coding-agent-project-template/
 
 Full paid starter kit (€9): https://cleo-ai-ops.github.io/client-intake-autopilot-pack/ai-coding-agent-project-starter-kit/
